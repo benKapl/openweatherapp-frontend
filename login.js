@@ -1,4 +1,4 @@
-const BACKEND_URL = "http://localhost:3000"
+const BACKEND_URL = "https://openweatherapp-backend.vercel.app"
 
 const registerButton = document.querySelector("#register")
 const connectionButton = document.querySelector("#connection")
